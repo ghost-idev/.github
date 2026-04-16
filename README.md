@@ -36,7 +36,7 @@
   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
   [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
   <div style="margin-top: 3px;">
-  <img class="image" src="https://raw.githubusercontent.com/ghost-idev/.github/main/images/aseprite.webp?raw=true" width="410" alt="Aseprite"><p>Aseprite</p>
+  <img class="image" src="https://raw.githubusercontent.com/ghost-idev/.github/main/images/aseprite.png?raw=true" width="410" alt="Aseprite"><p>Aseprite</p>
   </div>
 </div> 
 
