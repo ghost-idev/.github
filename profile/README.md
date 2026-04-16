@@ -5,8 +5,9 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img class="image" src="https://raw.githubusercontent.com/ghost-idev/.github/main/images/earth.gif?raw=true" width="410" alt="Earth">
-  <p style="font-size: 12px; color: #888;">Progress, not perfection.</p>
+
+  ![Earth Animation](images/earth.gif)
+  <p style="font-size: 12px; color: #888;">Leveling Up, One Game at a Time.</p>
 </div> 
 
 <div> 
@@ -35,8 +36,9 @@
   ### Tools
   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
   [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+  
   <div style="margin-top: 3px;">
-  <img class="image" src="https://raw.githubusercontent.com/ghost-idev/.github/main/images/aseprite.png?raw=true" width="19" alt="Aseprite"> Aseprite
+  <img src="images/aseprite.png" width="15" alt="Earth Animation"> Aseprite
   </div>
 </div> 
 
